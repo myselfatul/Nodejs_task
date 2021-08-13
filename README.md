@@ -1,6 +1,7 @@
 # Nodejs_task
 
 for this project you need to have PostgreSQL and NodeJS installed on your system. If you have both then simply clone this repo and execute following commands.
+I used cloudinary storage to perform image related tasks.
 
 To install all packages
 
